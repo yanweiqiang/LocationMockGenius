@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="mg_normal">10dp</dimen>
+    <dimen name="pd_normal">10dp</dimen>
+
+    <dimen name="ts_sm">12sp</dimen>
+    <dimen name="ts_normal">18sp</dimen>
+    <dimen name="ts_large">24sp</dimen>
+</resources>

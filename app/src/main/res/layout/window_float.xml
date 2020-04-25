@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_float_window"
+    android:padding="@dimen/pd_normal">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="模拟定位中"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/ts_sm"
+        android:textStyle="italic" />
+</RelativeLayout>
